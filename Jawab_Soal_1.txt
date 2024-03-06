@@ -1,0 +1,3 @@
+Apa itu library axios?
+
+Axios adalah sebuah library JavaScript yang digunakan untuk melakukan HTTP requests. Library ini umumnya digunakan dalam pengembangan aplikasi web untuk berinteraksi dengan API (Application Programming Interface) atau mengambil data dari server. Axios menyediakan antarmuka yang bersih dan mudah digunakan untuk melakukan berbagai jenis permintaan HTTP, seperti GET, POST, PUT, DELETE, dan sebagainya.Dibandingkan dengan fetch API bawaan JavaScript, Axios menawarkan fitur yang lebih lengkap, mudah digunakan, serta mendukung banyak fitur seperti membatalkan permintaan, mengatur header, mengelola response error, dan masih banyak lagi.
